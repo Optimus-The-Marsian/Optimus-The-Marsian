@@ -14,8 +14,7 @@
 </p>
 
 <p align="center">
-  📫 How to reach me: <a href="https://www.linkedin.com/in/nestor-saye-529609149/">LinkedIn</a>
-</p>
+  📫 How to reach me: nessysaye@gmail.com
 
 <p align="center">
   📄 Know about my experiences: <a href="https://www.linkedin.com/in/nestor-saye-529609149/">LinkedIn</a>
